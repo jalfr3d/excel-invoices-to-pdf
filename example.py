@@ -16,4 +16,5 @@ for filepath in filepaths:
     pdf.set_font(family="Times", size=16, style="B")
     pdf.cell(w=50, h=8, txt=capitalize_name, align="L", ln=1)
 
+# Produce the PDF
 pdf.output("txttopdf/animals.pdf")
