@@ -57,3 +57,7 @@ Before using this script, ensure you have the following:
 - Feel free to extend the script's capabilities, such as sending the generated PDF invoices via email or integrating it into an existing invoicing system.
 
 That's it! Use this script to simplify the process of generating PDF invoices from your Excel invoice data.
+
+## License
+
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
